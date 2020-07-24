@@ -19,8 +19,10 @@ public class TesteSinal {
 		 * São 3 sinais a simular. Chame os métodos abaixo para cada resolução. É possível usar PID ou apenas o P.
 		 * Crie soluções para Fuzzy, P (ou PID)- Fuzzy e uma puramente fuzzy. Em cada solução, salve as saídas de
 		 * erro e controle em arquivos erro.csv e controle.csv, respectivamente. Plote-os executando os arquivos
-		 * plot_erro.py e plot_controle.csv que devem estar na mesma pasta dos arquivos csv. É importante ajustar
-		 * os parâmetros observando os gráficos de erro, principalmente fuzzy.
+		 * plot_erro.py e plot_controle.py que devem estar na mesma pasta dos arquivos csv. É importante ajustar
+		 * os parâmetros observando os gráficos de erro, principalmente fuzzy. Lembre-se que o controle deverá 
+		 * responder em sentido contrário ao erro.
+		 * Implemente o MAE e o RMSE e mostre os valores ao fim.
 		 */
 	}
 	
